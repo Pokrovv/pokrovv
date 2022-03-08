@@ -25,10 +25,10 @@
 
 ### Pinned Repos
 
-<a href="https://github.com/OhSkilouxe/B0T">
+<a href="https://github.com/Pokrovv/B0T">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=OhSkilouxe&repo=B0T&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/OhSkilouxe/Nathan">
+<a href="https://github.com/Pokrov/Nathan">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=OhSkilouxe&repo=Nathan&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
