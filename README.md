@@ -10,7 +10,7 @@ Je suis un passionné de développement, travaillant principalement avec Python,
 - **HTML/CSS/VueJS**
 
 ## Projets notables
-- [jTools](lien_vers_le_projet_1) - Courte description du projet 1.
+- [jTools](lien_vers_le_projet_1) - Différents tools en python qui me servent personnellement
 
 
 
