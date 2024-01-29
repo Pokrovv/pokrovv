@@ -1,9 +1,24 @@
-<h1 align="center">Hi I'm Johakim</h1>
-<h3 align="center">A passionate frontend developer from Belgium</h3>
+# Bienvenue sur le profil GitHub de pokrov 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pokrovv" alt="pokrovv" /></a> </p>
+## À propos de moi
+Je suis un passionné de développement, travaillant principalement avec Python, JavaScript et Web3. Explorez mes projets pour découvrir mes contributions dans ces domaines.
+
+## Mes compétences
+- **Python**
+- **JavaScript**
+- **Web3**
+- **HTML/CSS/VueJS**
+
+## Projets notables
+- [jTools](lien_vers_le_projet_1) - Courte description du projet 1.
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> </p>
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Web3](https://img.shields.io/badge/Web3-Blockchain-orange.svg)](lien_vers_la_documentation_web3)
+
+## Comment me contacter
+- Discord: pokrovsec
+
+N'hésitez pas à explorer mes projets et à me contacter pour discuter de collaborations ou de projets passionnants !
