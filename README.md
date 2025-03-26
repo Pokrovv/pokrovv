@@ -2,7 +2,7 @@
 
 ### 👤 Qui suis-je ?
 
-### Je suis **[cp12yy]**, un développeur passionné par la technologie et l'innovation.
+### Je suis **cp12yy**, un développeur passionné par la technologie et l'innovation.
 ---
 
 ## 📊 Mes Statistiques GitHub
