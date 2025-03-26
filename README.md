@@ -1,24 +1,33 @@
-# Bienvenue sur le profil GitHub de pokrov 👋
+# 🌟 Bienvenue sur mon profil GitHub ! 🌟
 
-## À propos de moi
-Je suis un passionné de développement, travaillant principalement avec Python, JavaScript et Web3. Explorez mes projets pour découvrir mes contributions dans ces domaines.
+## 👤 Qui suis-je ?
 
-## Mes compétences
-- **Python**
-- **JavaScript**
-- **Web3**
-- **HTML/CSS/VueJS**
+Je suis **[cp12yy]**, un développeur passionné par la technologie et l'innovation.
+---
 
-## Projets notables
-- [jTools](lien_vers_le_projet_1) - Différents tools en python qui me servent personnellement
+## 📊 Mes Statistiques GitHub
 
+![Mes Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=pokrovv&show_icons=true&theme=radical&count_private=true)
 
+![Langages Principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=pokrovv&layout=compact&theme=radical)
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Web3](https://img.shields.io/badge/Web3-Blockchain-orange.svg)](lien_vers_la_documentation_web3)
+---
 
-## Comment me contacter
-- Discord: pokrovsec
+## 🌱 Ce que j'apprends actuellement
 
-N'hésitez pas à explorer mes projets et à me contacter pour discuter de collaborations ou de projets passionnants !
+- **JavaScript** et **TypeScript** pour des applications web dynamiques.
+- **Java** pour quelques plugins minecraft de temps à autre.
+- **HTML/CSS/JS** pour le web full-stack avec svelte
+
+---
+
+## 📫 Comment me contacter
+
+    📧 Email: your.email@example.com
+    🌐 Portfolio: yourportfolio.com
+    🐦 Twitter: @yourusername
+    💼 LinkedIn: Votre LinkedIn
+
+## 🔗 Mes Projets actuels
+
+https://hashtek.fr/
