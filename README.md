@@ -13,20 +13,13 @@
 
 ---
 
-## 🌱 Ce que j'apprends actuellement
+## 🌱 Ce que je maitrise actuellement
 
 - **JavaScript** et **TypeScript** pour des applications web dynamiques.
 - **Java** pour quelques plugins minecraft de temps à autre.
 - **HTML/CSS/JS** pour le web full-stack avec svelte
 
 ---
-
-## 📫 Comment me contacter
-
-    📧 Email: your.email@example.com
-    🌐 Portfolio: yourportfolio.com
-    🐦 Twitter: @yourusername
-    💼 LinkedIn: Votre LinkedIn
 
 ## 🔗 Mes Projets actuels
 
